@@ -1,0 +1,17 @@
+C:\Users\Austin\Documents\GitHub\mzLib\MassSpectrometry\bin\x64\Debug\net5.0\MassSpectrometry.deps.json
+C:\Users\Austin\Documents\GitHub\mzLib\MassSpectrometry\bin\x64\Debug\net5.0\MassSpectrometry.dll
+C:\Users\Austin\Documents\GitHub\mzLib\MassSpectrometry\bin\x64\Debug\net5.0\ref\MassSpectrometry.dll
+C:\Users\Austin\Documents\GitHub\mzLib\MassSpectrometry\bin\x64\Debug\net5.0\MassSpectrometry.pdb
+C:\Users\Austin\Documents\GitHub\mzLib\MassSpectrometry\bin\x64\Debug\net5.0\Chemistry.dll
+C:\Users\Austin\Documents\GitHub\mzLib\MassSpectrometry\bin\x64\Debug\net5.0\MzLibUtil.dll
+C:\Users\Austin\Documents\GitHub\mzLib\MassSpectrometry\bin\x64\Debug\net5.0\Chemistry.pdb
+C:\Users\Austin\Documents\GitHub\mzLib\MassSpectrometry\bin\x64\Debug\net5.0\MzLibUtil.pdb
+C:\Users\Austin\Documents\GitHub\mzLib\MassSpectrometry\obj\x64\Debug\net5.0\MassSpectrometry.csproj.AssemblyReference.cache
+C:\Users\Austin\Documents\GitHub\mzLib\MassSpectrometry\obj\x64\Debug\net5.0\MassSpectrometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\Documents\GitHub\mzLib\MassSpectrometry\obj\x64\Debug\net5.0\MassSpectrometry.AssemblyInfoInputs.cache
+C:\Users\Austin\Documents\GitHub\mzLib\MassSpectrometry\obj\x64\Debug\net5.0\MassSpectrometry.AssemblyInfo.cs
+C:\Users\Austin\Documents\GitHub\mzLib\MassSpectrometry\obj\x64\Debug\net5.0\MassSpectrometry.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Documents\GitHub\mzLib\MassSpectrometry\obj\x64\Debug\net5.0\MassSpectrometry.csproj.CopyComplete
+C:\Users\Austin\Documents\GitHub\mzLib\MassSpectrometry\obj\x64\Debug\net5.0\MassSpectrometry.dll
+C:\Users\Austin\Documents\GitHub\mzLib\MassSpectrometry\obj\x64\Debug\net5.0\ref\MassSpectrometry.dll
+C:\Users\Austin\Documents\GitHub\mzLib\MassSpectrometry\obj\x64\Debug\net5.0\MassSpectrometry.pdb

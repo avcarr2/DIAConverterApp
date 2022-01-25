@@ -1,0 +1,15 @@
+C:\Users\Austin\Documents\GitHub\mzLib\Chemistry\bin\x64\Release\net5.0\Chemistry.deps.json
+C:\Users\Austin\Documents\GitHub\mzLib\Chemistry\bin\x64\Release\net5.0\Chemistry.dll
+C:\Users\Austin\Documents\GitHub\mzLib\Chemistry\bin\x64\Release\net5.0\ref\Chemistry.dll
+C:\Users\Austin\Documents\GitHub\mzLib\Chemistry\bin\x64\Release\net5.0\Chemistry.pdb
+C:\Users\Austin\Documents\GitHub\mzLib\Chemistry\bin\x64\Release\net5.0\MzLibUtil.dll
+C:\Users\Austin\Documents\GitHub\mzLib\Chemistry\bin\x64\Release\net5.0\MzLibUtil.pdb
+C:\Users\Austin\Documents\GitHub\mzLib\Chemistry\obj\x64\Release\net5.0\Chemistry.csproj.AssemblyReference.cache
+C:\Users\Austin\Documents\GitHub\mzLib\Chemistry\obj\x64\Release\net5.0\Chemistry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\Documents\GitHub\mzLib\Chemistry\obj\x64\Release\net5.0\Chemistry.AssemblyInfoInputs.cache
+C:\Users\Austin\Documents\GitHub\mzLib\Chemistry\obj\x64\Release\net5.0\Chemistry.AssemblyInfo.cs
+C:\Users\Austin\Documents\GitHub\mzLib\Chemistry\obj\x64\Release\net5.0\Chemistry.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Documents\GitHub\mzLib\Chemistry\obj\x64\Release\net5.0\Chemistry.csproj.CopyComplete
+C:\Users\Austin\Documents\GitHub\mzLib\Chemistry\obj\x64\Release\net5.0\Chemistry.dll
+C:\Users\Austin\Documents\GitHub\mzLib\Chemistry\obj\x64\Release\net5.0\ref\Chemistry.dll
+C:\Users\Austin\Documents\GitHub\mzLib\Chemistry\obj\x64\Release\net5.0\Chemistry.pdb

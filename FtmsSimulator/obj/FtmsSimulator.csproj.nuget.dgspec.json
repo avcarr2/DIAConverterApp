@@ -1,0 +1,821 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\FtmsSimulator\\FtmsSimulator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Chemistry\\Chemistry.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Chemistry\\Chemistry.csproj",
+        "projectName": "Chemistry",
+        "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Chemistry\\Chemistry.csproj",
+        "packagesPath": "C:\\Users\\Austin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Chemistry\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Austin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzLibUtil\\MzLibUtil.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzLibUtil\\MzLibUtil.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\FtmsSimulator\\FtmsSimulator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\FtmsSimulator\\FtmsSimulator.csproj",
+        "projectName": "FtmsSimulator",
+        "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\FtmsSimulator\\FtmsSimulator.csproj",
+        "packagesPath": "C:\\Users\\Austin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\FtmsSimulator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Austin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Chemistry\\Chemistry.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Chemistry\\Chemistry.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\InSourceDecay\\InSourceDecay.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\InSourceDecay\\InSourceDecay.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MassSpectrometry\\MassSpectrometry.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MassSpectrometry\\MassSpectrometry.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Mgf\\Mgf.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Mgf\\Mgf.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzML\\MzML.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzML\\MzML.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\PepXML\\PepXML.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\PepXML\\PepXML.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Proteomics\\Proteomics.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Proteomics\\Proteomics.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\ThermoRawFileReader\\ThermoRawFileReader.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\ThermoRawFileReader\\ThermoRawFileReader.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\InSourceDecay\\InSourceDecay.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\InSourceDecay\\InSourceDecay.csproj",
+        "projectName": "InSourceDecay",
+        "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\InSourceDecay\\InSourceDecay.csproj",
+        "packagesPath": "C:\\Users\\Austin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\InSourceDecay\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Austin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Chemistry\\Chemistry.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Chemistry\\Chemistry.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MassSpectrometry\\MassSpectrometry.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MassSpectrometry\\MassSpectrometry.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Mgf\\Mgf.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Mgf\\Mgf.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzLibUtil\\MzLibUtil.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzLibUtil\\MzLibUtil.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzML\\MzML.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzML\\MzML.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\PepXML\\PepXML.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\PepXML\\PepXML.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Proteomics\\Proteomics.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Proteomics\\Proteomics.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\ThermoRawFileReader\\ThermoRawFileReader.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\ThermoRawFileReader\\ThermoRawFileReader.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\UsefulProteomicsDatabases\\UsefulProteomicsDatabases.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\UsefulProteomicsDatabases\\UsefulProteomicsDatabases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "OxyPlot.Core": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MassSpectrometry\\MassSpectrometry.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MassSpectrometry\\MassSpectrometry.csproj",
+        "projectName": "MassSpectrometry",
+        "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MassSpectrometry\\MassSpectrometry.csproj",
+        "packagesPath": "C:\\Users\\Austin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MassSpectrometry\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Austin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Chemistry\\Chemistry.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Chemistry\\Chemistry.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzLibUtil\\MzLibUtil.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzLibUtil\\MzLibUtil.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Mgf\\Mgf.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Mgf\\Mgf.csproj",
+        "projectName": "Mgf",
+        "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Mgf\\Mgf.csproj",
+        "packagesPath": "C:\\Users\\Austin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Mgf\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Austin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Chemistry\\Chemistry.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Chemistry\\Chemistry.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MassSpectrometry\\MassSpectrometry.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MassSpectrometry\\MassSpectrometry.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzLibUtil\\MzLibUtil.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzLibUtil\\MzLibUtil.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\UsefulProteomicsDatabases\\UsefulProteomicsDatabases.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\UsefulProteomicsDatabases\\UsefulProteomicsDatabases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzLibUtil\\MzLibUtil.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzLibUtil\\MzLibUtil.csproj",
+        "projectName": "MzLibUtil",
+        "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzLibUtil\\MzLibUtil.csproj",
+        "packagesPath": "C:\\Users\\Austin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzLibUtil\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Austin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Easy.Common": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "Microsoft.Win32.Registry": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzML\\MzML.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzML\\MzML.csproj",
+        "projectName": "MzML",
+        "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzML\\MzML.csproj",
+        "packagesPath": "C:\\Users\\Austin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzML\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Austin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MassSpectrometry\\MassSpectrometry.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MassSpectrometry\\MassSpectrometry.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzLibUtil\\MzLibUtil.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzLibUtil\\MzLibUtil.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\UsefulProteomicsDatabases\\UsefulProteomicsDatabases.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\UsefulProteomicsDatabases\\UsefulProteomicsDatabases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\PepXML\\PepXML.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\PepXML\\PepXML.csproj",
+        "projectName": "PepXML",
+        "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\PepXML\\PepXML.csproj",
+        "packagesPath": "C:\\Users\\Austin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\PepXML\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Austin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Proteomics\\Proteomics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Proteomics\\Proteomics.csproj",
+        "projectName": "Proteomics",
+        "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Proteomics\\Proteomics.csproj",
+        "packagesPath": "C:\\Users\\Austin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Proteomics\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Austin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Chemistry\\Chemistry.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Chemistry\\Chemistry.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MassSpectrometry\\MassSpectrometry.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MassSpectrometry\\MassSpectrometry.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzLibUtil\\MzLibUtil.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzLibUtil\\MzLibUtil.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\ThermoRawFileReader\\ThermoRawFileReader.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\ThermoRawFileReader\\ThermoRawFileReader.csproj",
+        "projectName": "ThermoRawFileReader",
+        "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\ThermoRawFileReader\\ThermoRawFileReader.csproj",
+        "packagesPath": "C:\\Users\\Austin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\ThermoRawFileReader\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Austin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MassSpectrometry\\MassSpectrometry.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MassSpectrometry\\MassSpectrometry.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzLibUtil\\MzLibUtil.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzLibUtil\\MzLibUtil.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\UsefulProteomicsDatabases\\UsefulProteomicsDatabases.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\UsefulProteomicsDatabases\\UsefulProteomicsDatabases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "OpenMcdf": {
+              "target": "Package",
+              "version": "[2.2.1.3, )"
+            },
+            "OpenMcdf.Extensions": {
+              "target": "Package",
+              "version": "[2.2.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\UsefulProteomicsDatabases\\UsefulProteomicsDatabases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\UsefulProteomicsDatabases\\UsefulProteomicsDatabases.csproj",
+        "projectName": "UsefulProteomicsDatabases",
+        "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\UsefulProteomicsDatabases\\UsefulProteomicsDatabases.csproj",
+        "packagesPath": "C:\\Users\\Austin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\UsefulProteomicsDatabases\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Austin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Chemistry\\Chemistry.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Chemistry\\Chemistry.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzLibUtil\\MzLibUtil.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\MzLibUtil\\MzLibUtil.csproj"
+              },
+              "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Proteomics\\Proteomics.csproj": {
+                "projectPath": "C:\\Users\\Austin\\Documents\\GitHub\\mzLib\\Proteomics\\Proteomics.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

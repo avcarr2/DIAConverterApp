@@ -1,0 +1,12 @@
+C:\Users\Austin\Documents\GitHub\mzLib\MzLibUtil\bin\x64\Debug\net5.0\MzLibUtil.deps.json
+C:\Users\Austin\Documents\GitHub\mzLib\MzLibUtil\bin\x64\Debug\net5.0\MzLibUtil.dll
+C:\Users\Austin\Documents\GitHub\mzLib\MzLibUtil\bin\x64\Debug\net5.0\ref\MzLibUtil.dll
+C:\Users\Austin\Documents\GitHub\mzLib\MzLibUtil\bin\x64\Debug\net5.0\MzLibUtil.pdb
+C:\Users\Austin\Documents\GitHub\mzLib\MzLibUtil\obj\x64\Debug\net5.0\MzLibUtil.csproj.AssemblyReference.cache
+C:\Users\Austin\Documents\GitHub\mzLib\MzLibUtil\obj\x64\Debug\net5.0\MzLibUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\Documents\GitHub\mzLib\MzLibUtil\obj\x64\Debug\net5.0\MzLibUtil.AssemblyInfoInputs.cache
+C:\Users\Austin\Documents\GitHub\mzLib\MzLibUtil\obj\x64\Debug\net5.0\MzLibUtil.AssemblyInfo.cs
+C:\Users\Austin\Documents\GitHub\mzLib\MzLibUtil\obj\x64\Debug\net5.0\MzLibUtil.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Documents\GitHub\mzLib\MzLibUtil\obj\x64\Debug\net5.0\MzLibUtil.dll
+C:\Users\Austin\Documents\GitHub\mzLib\MzLibUtil\obj\x64\Debug\net5.0\ref\MzLibUtil.dll
+C:\Users\Austin\Documents\GitHub\mzLib\MzLibUtil\obj\x64\Debug\net5.0\MzLibUtil.pdb

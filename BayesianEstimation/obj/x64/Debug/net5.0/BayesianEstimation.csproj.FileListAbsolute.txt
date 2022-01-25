@@ -1,0 +1,15 @@
+C:\Users\Austin\Documents\GitHub\mzLib\BayesianEstimation\bin\x64\Debug\net5.0\BayesianEstimation.deps.json
+C:\Users\Austin\Documents\GitHub\mzLib\BayesianEstimation\bin\x64\Debug\net5.0\BayesianEstimation.dll
+C:\Users\Austin\Documents\GitHub\mzLib\BayesianEstimation\bin\x64\Debug\net5.0\ref\BayesianEstimation.dll
+C:\Users\Austin\Documents\GitHub\mzLib\BayesianEstimation\bin\x64\Debug\net5.0\BayesianEstimation.pdb
+C:\Users\Austin\Documents\GitHub\mzLib\BayesianEstimation\bin\x64\Debug\net5.0\MzLibUtil.dll
+C:\Users\Austin\Documents\GitHub\mzLib\BayesianEstimation\bin\x64\Debug\net5.0\MzLibUtil.pdb
+C:\Users\Austin\Documents\GitHub\mzLib\BayesianEstimation\obj\x64\Debug\net5.0\BayesianEstimation.csproj.AssemblyReference.cache
+C:\Users\Austin\Documents\GitHub\mzLib\BayesianEstimation\obj\x64\Debug\net5.0\BayesianEstimation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\Documents\GitHub\mzLib\BayesianEstimation\obj\x64\Debug\net5.0\BayesianEstimation.AssemblyInfoInputs.cache
+C:\Users\Austin\Documents\GitHub\mzLib\BayesianEstimation\obj\x64\Debug\net5.0\BayesianEstimation.AssemblyInfo.cs
+C:\Users\Austin\Documents\GitHub\mzLib\BayesianEstimation\obj\x64\Debug\net5.0\BayesianEstimation.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Documents\GitHub\mzLib\BayesianEstimation\obj\x64\Debug\net5.0\BayesianEstimation.csproj.CopyComplete
+C:\Users\Austin\Documents\GitHub\mzLib\BayesianEstimation\obj\x64\Debug\net5.0\BayesianEstimation.dll
+C:\Users\Austin\Documents\GitHub\mzLib\BayesianEstimation\obj\x64\Debug\net5.0\ref\BayesianEstimation.dll
+C:\Users\Austin\Documents\GitHub\mzLib\BayesianEstimation\obj\x64\Debug\net5.0\BayesianEstimation.pdb

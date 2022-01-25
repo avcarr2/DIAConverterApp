@@ -1,0 +1,12 @@
+C:\Users\Austin\Documents\GitHub\mzLib\PepXML\bin\x64\Debug\net5.0\PepXML.deps.json
+C:\Users\Austin\Documents\GitHub\mzLib\PepXML\bin\x64\Debug\net5.0\PepXML.dll
+C:\Users\Austin\Documents\GitHub\mzLib\PepXML\bin\x64\Debug\net5.0\ref\PepXML.dll
+C:\Users\Austin\Documents\GitHub\mzLib\PepXML\bin\x64\Debug\net5.0\PepXML.pdb
+C:\Users\Austin\Documents\GitHub\mzLib\PepXML\obj\x64\Debug\net5.0\PepXML.csproj.AssemblyReference.cache
+C:\Users\Austin\Documents\GitHub\mzLib\PepXML\obj\x64\Debug\net5.0\PepXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\Documents\GitHub\mzLib\PepXML\obj\x64\Debug\net5.0\PepXML.AssemblyInfoInputs.cache
+C:\Users\Austin\Documents\GitHub\mzLib\PepXML\obj\x64\Debug\net5.0\PepXML.AssemblyInfo.cs
+C:\Users\Austin\Documents\GitHub\mzLib\PepXML\obj\x64\Debug\net5.0\PepXML.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Documents\GitHub\mzLib\PepXML\obj\x64\Debug\net5.0\PepXML.dll
+C:\Users\Austin\Documents\GitHub\mzLib\PepXML\obj\x64\Debug\net5.0\ref\PepXML.dll
+C:\Users\Austin\Documents\GitHub\mzLib\PepXML\obj\x64\Debug\net5.0\PepXML.pdb
