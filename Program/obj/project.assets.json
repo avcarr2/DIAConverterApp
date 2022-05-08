@@ -2089,28 +2089,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Austin\\.nuget\\packages\\": {},
+    "C:\\Users\\ashph\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Austin\\Documents\\DIAConverter\\Program\\Program.csproj",
+      "projectUniqueName": "D:\\AustinRepos\\DIAConverter\\Program\\Program.csproj",
       "projectName": "Program",
-      "projectPath": "C:\\Users\\Austin\\Documents\\DIAConverter\\Program\\Program.csproj",
-      "packagesPath": "C:\\Users\\Austin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Austin\\Documents\\DIAConverter\\Program\\obj\\",
+      "projectPath": "D:\\AustinRepos\\DIAConverter\\Program\\Program.csproj",
+      "packagesPath": "C:\\Users\\ashph\\.nuget\\packages\\",
+      "outputPath": "D:\\AustinRepos\\DIAConverter\\Program\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Austin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ashph\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -2123,23 +2122,23 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Austin\\Documents\\DIAConverter\\DIALFQaunt_MS1\\DIALFQaunt_MS1.csproj": {
-              "projectPath": "C:\\Users\\Austin\\Documents\\DIAConverter\\DIALFQaunt_MS1\\DIALFQaunt_MS1.csproj"
+            "D:\\AustinRepos\\DIAConverter\\DIALFQaunt_MS1\\DIALFQaunt_MS1.csproj": {
+              "projectPath": "D:\\AustinRepos\\DIAConverter\\DIALFQaunt_MS1\\DIALFQaunt_MS1.csproj"
             },
-            "C:\\Users\\Austin\\Documents\\DIAConverter\\MassSpectrometry\\MassSpectrometry.csproj": {
-              "projectPath": "C:\\Users\\Austin\\Documents\\DIAConverter\\MassSpectrometry\\MassSpectrometry.csproj"
+            "D:\\AustinRepos\\DIAConverter\\MassSpectrometry\\MassSpectrometry.csproj": {
+              "projectPath": "D:\\AustinRepos\\DIAConverter\\MassSpectrometry\\MassSpectrometry.csproj"
             },
-            "C:\\Users\\Austin\\Documents\\DIAConverter\\Mgf\\Mgf.csproj": {
-              "projectPath": "C:\\Users\\Austin\\Documents\\DIAConverter\\Mgf\\Mgf.csproj"
+            "D:\\AustinRepos\\DIAConverter\\Mgf\\Mgf.csproj": {
+              "projectPath": "D:\\AustinRepos\\DIAConverter\\Mgf\\Mgf.csproj"
             },
-            "C:\\Users\\Austin\\Documents\\DIAConverter\\MzLibUtil\\MzLibUtil.csproj": {
-              "projectPath": "C:\\Users\\Austin\\Documents\\DIAConverter\\MzLibUtil\\MzLibUtil.csproj"
+            "D:\\AustinRepos\\DIAConverter\\MzLibUtil\\MzLibUtil.csproj": {
+              "projectPath": "D:\\AustinRepos\\DIAConverter\\MzLibUtil\\MzLibUtil.csproj"
             },
-            "C:\\Users\\Austin\\Documents\\DIAConverter\\MzML\\MzML.csproj": {
-              "projectPath": "C:\\Users\\Austin\\Documents\\DIAConverter\\MzML\\MzML.csproj"
+            "D:\\AustinRepos\\DIAConverter\\MzML\\MzML.csproj": {
+              "projectPath": "D:\\AustinRepos\\DIAConverter\\MzML\\MzML.csproj"
             },
-            "C:\\Users\\Austin\\Documents\\DIAConverter\\Proteomics\\Proteomics.csproj": {
-              "projectPath": "C:\\Users\\Austin\\Documents\\DIAConverter\\Proteomics\\Proteomics.csproj"
+            "D:\\AustinRepos\\DIAConverter\\Proteomics\\Proteomics.csproj": {
+              "projectPath": "D:\\AustinRepos\\DIAConverter\\Proteomics\\Proteomics.csproj"
             }
           }
         }
@@ -2168,7 +2167,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
