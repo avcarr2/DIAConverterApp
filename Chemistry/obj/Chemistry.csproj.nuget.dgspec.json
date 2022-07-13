@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AustinRepos\\DIAConverter\\Chemistry\\Chemistry.csproj": {}
+    "C:\\Users\\austi\\Source\\Repos\\DIAConverterApp\\Chemistry\\Chemistry.csproj": {}
   },
   "projects": {
-    "D:\\AustinRepos\\DIAConverter\\Chemistry\\Chemistry.csproj": {
+    "C:\\Users\\austi\\Source\\Repos\\DIAConverterApp\\Chemistry\\Chemistry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AustinRepos\\DIAConverter\\Chemistry\\Chemistry.csproj",
+        "projectUniqueName": "C:\\Users\\austi\\Source\\Repos\\DIAConverterApp\\Chemistry\\Chemistry.csproj",
         "projectName": "Chemistry",
-        "projectPath": "D:\\AustinRepos\\DIAConverter\\Chemistry\\Chemistry.csproj",
-        "packagesPath": "C:\\Users\\ashph\\.nuget\\packages\\",
-        "outputPath": "D:\\AustinRepos\\DIAConverter\\Chemistry\\obj\\",
+        "projectPath": "C:\\Users\\austi\\Source\\Repos\\DIAConverterApp\\Chemistry\\Chemistry.csproj",
+        "packagesPath": "C:\\Users\\austi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\austi\\Source\\Repos\\DIAConverterApp\\Chemistry\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ashph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\austi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\AustinRepos\\DIAConverter\\MzLibUtil\\MzLibUtil.csproj": {
-                "projectPath": "D:\\AustinRepos\\DIAConverter\\MzLibUtil\\MzLibUtil.csproj"
+              "C:\\Users\\austi\\Source\\Repos\\DIAConverterApp\\MzLibUtil\\MzLibUtil.csproj": {
+                "projectPath": "C:\\Users\\austi\\Source\\Repos\\DIAConverterApp\\MzLibUtil\\MzLibUtil.csproj"
               }
             }
           }
@@ -58,30 +57,43 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\AustinRepos\\DIAConverter\\MzLibUtil\\MzLibUtil.csproj": {
+    "C:\\Users\\austi\\Source\\Repos\\DIAConverterApp\\MzLibUtil\\MzLibUtil.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AustinRepos\\DIAConverter\\MzLibUtil\\MzLibUtil.csproj",
+        "projectUniqueName": "C:\\Users\\austi\\Source\\Repos\\DIAConverterApp\\MzLibUtil\\MzLibUtil.csproj",
         "projectName": "MzLibUtil",
-        "projectPath": "D:\\AustinRepos\\DIAConverter\\MzLibUtil\\MzLibUtil.csproj",
-        "packagesPath": "C:\\Users\\ashph\\.nuget\\packages\\",
-        "outputPath": "D:\\AustinRepos\\DIAConverter\\MzLibUtil\\obj\\",
+        "projectPath": "C:\\Users\\austi\\Source\\Repos\\DIAConverterApp\\MzLibUtil\\MzLibUtil.csproj",
+        "packagesPath": "C:\\Users\\austi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\austi\\Source\\Repos\\DIAConverterApp\\MzLibUtil\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ashph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\austi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -127,12 +139,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
