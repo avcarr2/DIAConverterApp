@@ -78,7 +78,7 @@ namespace Program
             string[] mgfFiles = Directory.GetFiles(mgfDirectoryPath, ".mgf");
             // populate the dictionary based on the mzml file names and the experimentIndicator
             // regex match experimentIndicator and all characters after it until the (negative look-ahead) period.  
-            Regex experimentRegex = new Regex(@""+ experimentIndicator + @".*(?=\.)"); 
+            Regex experimentRegex = new Regex(@""+ experimentIndicator + @".*(?=_Q)"); 
             foreach(string mzmlFile in mzmlFiles)
             {
                 // get the exp number using the regex. 
