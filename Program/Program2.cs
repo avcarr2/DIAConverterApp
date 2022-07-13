@@ -67,8 +67,10 @@ namespace Program
         /// <param name="experimentIndicator"></param>
         /// <returns></returns>
         public Dictionary<string, List<string>> MatchMzMLAndMGFFiles(string mzmlFolderPath, string mgfDirectoryPath, 
-            string experimentIndicator = "Exp")
+            string experimentIndicator = "")
         {
+            // change to get everything up to underscore Q. 
+
             Dictionary<string, List<string>> valuesDict = new();
             // get the mzml file names from the folder path. 
             string[] mzmlFiles = Directory.GetFiles(mzmlFolderPath, ".mzML");
@@ -81,7 +83,7 @@ namespace Program
             {
                 // get the exp number using the regex. 
                 var matchGroup = experimentRegex.Match(mzmlFile);
-                string experimentNumber = matchGroup.Groups[1].Value;
+                string experimentNumber = matchGroup.Groups[0].Value; 
                 // experimentNumber is now the new string to match against all the mgf files. 
                 List<string> matchingMgfs = mgfFiles
                     .Where(x => Regex.IsMatch(x, experimentNumber, RegexOptions.IgnoreCase) == true)
